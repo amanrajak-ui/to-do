@@ -17,7 +17,7 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 
 ## 📸 Preview
 
-[To-Do App Screenshot]((https://github.com/user-attachments/assets/3bb1257c-ce56-4071-9ada-87642fe58cd0))
+![To-Do App Screenshot](https://github.com/user-attachments/assets/3bb1257c-ce56-4071-9ada-87642fe58cd0)
 
 ---
 
